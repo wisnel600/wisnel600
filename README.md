@@ -89,4 +89,4 @@ I am a highly skilled data analyst with extensive experience in **statistics, ec
 
 - ✉️ Email: [wisnelfrancois1@gmail.com](mailto:wisnelfrancois1@gmail.com)  
 - 📞 Phone: +52 55 56 17 86 34  
-- 💼 LinkedIn: [linkedin.com/in/wisnelfrancois](https://linkedin.com/in/wisnelfrancois)   
+- 💼 LinkedIn: [https://www.linkedin.com/in/wisnel-françois-54a780133](https://www.linkedin.com/in/wisnel-françois-54a780133)   
