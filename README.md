@@ -1,92 +1,64 @@
 # 👋 Hi, I'm Wisnel François
 
-🎯 **Data Analyst | Demographer | Statistician**  
-📍 Based in Mexico City | 📊 Passionate about data-driven development
+**Data Analyst | Statistician | Demographer**  
+SQL • Python • R • Power BI • Tableau • Survey Data
+
+🔎 I work on social, economic, and demographic data to produce clear, actionable insights using reproducible statistical methods.
 
 ---
 
-## 🧠 Profile Summary
-
-I am a highly skilled data analyst with extensive experience in **statistics, economics**, and **demography**. I specialize in **survey methodology**, **data validation**, and **complex data analysis**, using tools such as **R**, **Python**, **Power BI**, and **SAS**. I am passionate about leveraging data to inform decision-making in **development** and **public policy sectors**. I’m recognized for my analytical skills, attention to detail, and ability to work both **autonomously** and **collaboratively** in dynamic environments.
+## 🧠 About Me
+- Background in **statistics, economics, and demography**
+- Strong experience with **survey data** (ENASEM, ENIGH, ACS, CPS)
+- Interested in **labor markets, aging, health, discrimination, and public policy**
+- Comfortable with the full workflow: data cleaning → analysis → modeling → visualization → interpretation
 
 ---
 
 ## 🛠️ Technical Skills
-
-- **Quantitative Methods**: Demographic Analysis, Impact Evaluation, Economics, Statistical Analysis, Machine Learning  
-- **Programming & Tools**: R, Python, Power BI, Excel, SPSS, SAS  
-- **Data Analysis Techniques**: Factorial Analysis, Classification Models, Causal Inference, Time Series Analysis, Econometrics
-
----
-
-## 🎓 Education
-
-- 🎓 MSc in Population and Development – *FLACSO-México* (Expected August 2026)  
-- 🎓 Diploma in Applied Economics: Statistics – *State University of Haiti (CTPEA)* (2014–2018)
+- **Languages:** R, Python, SQL  
+- **Statistics:** OLS & logistic regression, hypothesis testing, PCA (ACP)  
+- **Data Analysis:** Pandas, NumPy, tidyverse, statsmodels  
+- **Visualization:** Power BI, Tableau, ggplot2  
+- **Tools:** Git/GitHub, Excel, SPSS, SAS
 
 ---
 
-## 💼 Work Experience
+## 📌 Featured Projects
 
-### **Senior Reporting Assistant** | IOM-Haiti  
-*Feb 2024 – Aug 2024*  
-- Prepared and submitted reports in French and English  
-- Developed dashboards and monitoring tools  
-- Analyzed key indicators and automated reports
+### 🔹 Labor Market Discrimination (R)
+📁 `discriminacion-laboral-R`  
+- Logistic regression on callback probability  
+- Inspired by Bertrand & Mullainathan (2004)  
+- Model comparison, predicted probabilities, confusion matrix  
 
-### **Monitoring & Evaluation Officer** | UNDP-Haiti  
-*Feb 2023 – Jan 2024*  
-- Designed dashboards and strengthened partner capacities  
-- Supervised field data collection  
-- Oversaw periodic reporting processes
-
-### **MEAL Assistant** | World Relief Haiti  
-*May 2022 – July 2022*  
-- Developed M&E tools and conducted staff training  
-- Led field visits and gave implementation feedback
-
-### **Statistician** | Haitian Institute of Statistics and Informatics  
-*Apr 2021 – Mar 2022* & *May 2019 – Dec 2019*  
-- Designed applications and conducted survey methodology  
-- Managed training and post-enumeration evaluation
-
-### **Disease Reporting Officer** | St. Damien Hospital  
-*Oct 2020 – Apr 2021*  
-- Monitored health indicators and managed MESI data reporting  
-- Conducted coaching sessions and created dashboards
+**Skills:** R, applied econometrics, discrimination analysis
 
 ---
 
-## 📚 Certifications & Trainings
+### 🔹 Pain Among Older Adults in Mexico (ENASEM 2021)
+📁 `dolor-adultos-mayores-enasem-2021`  
+- Determinants of pain among older adults  
+- Binary outcome modeled with logistic regression  
+- Focus on rural/urban and sociodemographic factors  
 
-- **Data Science A to Z** – Udemy  
-- **Python Data Analysis and Visualization** – Udemy  
-- **Complete Data Science Bootcamp** – Udemy  
-- **Monitoring and Evaluation for Development Projects** – Udemy  
-- **Full Data Analysis Course (MySQL, Power BI, Python)** – Edutin Academy
-
----
-
-## 📊 Projects
-
-- `Netflix Data Analysis` *(Python)*  
-- `American Universities Dataset Analysis` *(Python)*  
-- `Student Mental Health Analytics` *(SQL)*  
-- `Exploratory Notebooks Projects` *(Jupyter)*
+**Skills:** Survey data, health statistics, regression analysis
 
 ---
 
-## 🌐 Languages
+### 🔹 Housing Rent Determinants in Mexico (ENIGH)
+📁 `renta-vivienda-enigh`  
+- Multiple linear regression of monthly rent  
+- Housing characteristics and locality effects  
+- Model diagnostics and assumption checks  
 
-- 🇭🇹 **Creole** – Native  
-- 🇫🇷 **French** – Native  
-- 🇺🇸 **English** – Advanced  
-- 🇲🇽 **Spanish** – Advanced
+**Skills:** OLS regression, descriptive & bivariate analysis
 
 ---
 
 ## 📫 Contact
+- **Email:** wisnelfrancois1@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/wisnel-françois-54a780133
 
-- ✉️ Email: [wisnelfrancois1@gmail.com](mailto:wisnelfrancois1@gmail.com)  
-- 📞 Phone: +52 55 56 17 86 34  
-- 💼 LinkedIn: [https://www.linkedin.com/in/wisnel-françois-54a780133](https://www.linkedin.com/in/wisnel-françois-54a780133)   
+⭐ Feel free to explore my repositories or reach out for collaboration or opportunities.
+
