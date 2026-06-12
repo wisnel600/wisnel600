@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Wisnel François
 
 **Data Analyst | Statistician | Demographer**  
-SQL • Python • R • Power BI • Tableau • Survey Data
+SQL • Google BigQuery • Python • R • Power BI • Looker • Survey Data
 
 🔎 I work on social, economic, and demographic data to produce clear, actionable insights using reproducible statistical methods.
 
